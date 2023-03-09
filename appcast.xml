@@ -13,7 +13,7 @@
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/Publish/ChatMa.app.zip"
                 sparkle:shortVersionString="1.0"
-                sparkle:version="2023.03.09"
+                sparkle:version="1"
                 length="1740591"
                 type="application/octet-stream"
                 sparkle:edSignature="w8X7EtTJopvSgzKrjdufDcOByiddhtWkEXCLi190oi+Pm315RVGSoLQTjFyksqgNH1/NsDu9P3GIE1ShpL/8Ag=="
