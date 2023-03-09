@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ChatMa</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <sparkle:releaseNotesLink>
+                http://mabinglei183.github.io/release-note.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <enclosure
+                url="https://github.com/mabinglei183/ChatMa/releases/download/Publish/ChatMa.app.zip"
+                sparkle:shortVersionString="1.0"
+                sparkle:version="2023.03.09"
+                length="1740591"
+                type="application/octet-stream"
+                sparkle:edSignature="w8X7EtTJopvSgzKrjdufDcOByiddhtWkEXCLi190oi+Pm315RVGSoLQTjFyksqgNH1/NsDu9P3GIE1ShpL/8Ag=="
+            />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
