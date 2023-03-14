@@ -5,11 +5,11 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.1</title>
+            <title>Version 2.2</title>
             <!--<sparkle:releaseNotesLink>
                 http://mabinglei183.github.io/release-note.html
             </sparkle:releaseNotesLink>-->
-            <pubDate>Sun, 12 Mar 2023 13:20:11 +0000</pubDate>
+            <pubDate>Tue, 14 Mar 2023 17:15:11 +0000</pubDate>
             <description>
               <![CDATA[
                 <ul>
@@ -22,12 +22,12 @@
               ]]>
             </description>
             <enclosure
-                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.1/ChatMa.app.v.2.1.zip"
-                sparkle:shortVersionString="2.1"
-                sparkle:version="5"
-                length="1792376"
+                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.2/ChatMa.app.v2.2.zip"
+                sparkle:shortVersionString="2.2"
+                sparkle:version="6"
+                length="1795557"
                 type="application/octet-stream"
-                sparkle:edSignature="yWMhqH6LeAZxK86XwO4xP8VY0GzOoUs9L2JrCulLgCgxFCJE6HfONC9S2M6ThYI6PZ0N1Fr4p59NkpYoSAwkDg=="
+                sparkle:edSignature="tkX0pA2uILvOoIPG2diyw0qIqFY1W4pOrpkleThfdbHOgu/dnEPhr3Vi9x5kEiyOm2RLtUx4PJYMpatSzCScBA=="
             />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
