@@ -5,29 +5,35 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.2</title>
+            <title>Version 2.3</title>
             <!--<sparkle:releaseNotesLink>
                 http://mabinglei183.github.io/release-note.html
             </sparkle:releaseNotesLink>-->
-            <pubDate>Tue, 14 Mar 2023 17:15:11 +0000</pubDate>
+            <pubDate>Tue, 14 Mar 2023 22:40:11 +0000</pubDate>
             <description>
               <![CDATA[
                 <ul>
-                    <li>新增简体中文翻译</li>
-                    <li>新增上下文相关功能</li>
-                    <li>新增流式传输功能，响应速度更快</li>
-                    <li>新增获取API密钥链接功能</li>
+                    <li>增加设置主机名功能</li>
+                    <li>增加获取API密钥链接功能</li>
+                    <li>增加选择模型功能</li>
+                    <li>增加设置最大Token数功能</li>
+                    <li>增加设置采样度功能</li>
+                    <li>增加自动检查更新功能</li>
+                    <li>增加自动下载更新功能</li>
+                    <li>增加上下文相关功能</li>
+                    <li>增加流式传输功能，响应速度更快</li>
+                    <li>增加简体中文翻译</li>
                     <li>优化一些功能，修复已知bug</li>
                 </ul>
               ]]>
             </description>
             <enclosure
-                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.2/ChatMa.app.v2.2.zip"
-                sparkle:shortVersionString="2.2"
-                sparkle:version="6"
-                length="1795557"
+                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.3/ChatMa.app.v.2.3.zip"
+                sparkle:shortVersionString="2.3"
+                sparkle:version="7"
+                length="1808951"
                 type="application/octet-stream"
-                sparkle:edSignature="tkX0pA2uILvOoIPG2diyw0qIqFY1W4pOrpkleThfdbHOgu/dnEPhr3Vi9x5kEiyOm2RLtUx4PJYMpatSzCScBA=="
+                sparkle:edSignature="PPQepqgN045O1qsrLu8MCbGgT6Wvko1nU7N20lKih5NAaKdaszRaS8yZIZzOXmNXVn1oyE6gHnmXqgGvtvfXAw=="
             />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
