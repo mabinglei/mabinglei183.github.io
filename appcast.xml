@@ -33,10 +33,10 @@
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/v2.4/ChatMa.app.v.2.4.zip"
                 sparkle:shortVersionString="2.4"
-                sparkle:version="8"
-                length="5912172"
+                sparkle:version="9"
+                length="5917694"
                 type="application/octet-stream"
-                sparkle:edSignature="uJ8jAwU9pVcjaV2vey5aAKeiPlALdutpN+VOYveIMfDBALZOUZ0+GXdM4TSc8FxKyLOPerrT0e1kY1qV4hbzBw=="
+                sparkle:edSignature="AREFFx0MvjkDfm0C3W8YN0AbWcByYjdQ+MmKnngQ70dRa2RiI6HiDyoygjU1UStTO1KatBKMtds73j+VHYtCAg=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
