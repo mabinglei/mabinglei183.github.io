@@ -5,14 +5,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.4</title>
+            <title>Version 2.5</title>
             <!--<sparkle:releaseNotesLink>
                 http://mabinglei183.github.io/release-note.html
             </sparkle:releaseNotesLink>-->
-            <pubDate>Sat, 25 Mar 2023 22:20:11 +0000</pubDate>
+            <pubDate>Thu, 30 Mar 2023 22:20:11 +0000</pubDate>
             <description>
               <![CDATA[
                 <ul>
+                    <li>增加设置上下文条数功能</li>
+                    <li>取消了上下文开关，以后用上下文条数功能取代</li>
+                    <li>增加主窗口显示token和花费</li>
+                    <li>增加新建会话功能</li>
                     <li>代码大部分重构</li>
                     <li>增加主窗口</li>
                     <li>用户界面美化</li>
@@ -31,12 +35,12 @@
               ]]>
             </description>
             <enclosure
-                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.4/ChatMa.app.v.2.4.zip"
-                sparkle:shortVersionString="2.4"
-                sparkle:version="9"
-                length="5917694"
+                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
+                sparkle:shortVersionString="2.5"
+                sparkle:version="10"
+                length="6613900"
                 type="application/octet-stream"
-                sparkle:edSignature="AREFFx0MvjkDfm0C3W8YN0AbWcByYjdQ+MmKnngQ70dRa2RiI6HiDyoygjU1UStTO1KatBKMtds73j+VHYtCAg=="
+                sparkle:edSignature="FmoDG4vANHm1N6uc3RY3kSj0CfQO3oDAqPIUSbhLaBUEMrow6LONBRWsJyt7CJSOYrHJecl3+zVQ69nB1kWkDA=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
