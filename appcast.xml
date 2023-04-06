@@ -1,48 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>ChatMa</title>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
-        <item>
-            <title>Version 2.5</title>
-            <!--<sparkle:releaseNotesLink>
-                http://mabinglei183.github.io/release-note.html
-            </sparkle:releaseNotesLink>-->
-            <pubDate>Thu, 30 Mar 2023 22:20:11 +0000</pubDate>
-            <description>
-              <![CDATA[
-                <ul>
-                    <li>增加设置上下文条数功能</li>
-                    <li>取消了上下文开关，以后用上下文条数功能取代</li>
-                    <li>增加主窗口显示token和花费</li>
-                    <li>增加新建会话功能</li>
-                    <li>代码大部分重构</li>
-                    <li>增加主窗口</li>
-                    <li>用户界面美化</li>
-                    <li>增加设置主机名功能</li>
-                    <li>增加获取API密钥链接功能</li>
-                    <li>增加选择模型功能</li>
-                    <li>增加设置最大Token数功能</li>
-                    <li>增加设置采样度功能</li>
-                    <li>增加自动检查更新功能</li>
-                    <li>增加自动下载更新功能</li>
-                    <li>增加上下文相关功能</li>
-                    <li>增加流式传输功能，响应速度更快</li>
-                    <li>增加简体中文翻译</li>
-                    <li>优化一些功能，修复已知bug</li>
-                </ul>
-              ]]>
-            </description>
-            <enclosure
-                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
-                sparkle:shortVersionString="2.5"
-                sparkle:version="11"
-                length="6612965"
-                type="application/octet-stream"
-                sparkle:edSignature="4Vie8/3X79a7usCzluwQjCE+q3cTPwd+GABsz7Nv++X2KqDHvUAW91YSt4R7Df5Lkd5EzglgrByFK08QklppBQ=="
-            />
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        </item>
-    </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>ChatMa</title>
+      <link>http://you.com/app/appcast.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+         <item>
+            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+						<sparkle:releaseNotesLink>
+							https://raw.githubusercontent.com/mabinglei183/mabinglei183.github.io/main/release-note.html
+						</sparkle:releaseNotesLink>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh" />
+         </item>
+
+         <item>
+            <title>Version 1.5 (8 bugs fixed; 2 new features)</title>
+						<sparkle:releaseNotesLink>
+							https://raw.githubusercontent.com/mabinglei183/mabinglei183.github.io/main/release-note.html
+						</sparkle:releaseNotesLink>
+            <pubDate>Wed, 01 Jan 2006 12:20:11 +0000</pubDate>
+            <enclosure url="http://you.com/app/Your Great App 1.5.zip" sparkle:version="1.5" length="1472893" type="application/octet-stream" sparkle:dsaSignature="234818feCa1JyW30nbkBwainOzrN6EQuAh" />
+         </item>
+   </channel>
 </rss>
