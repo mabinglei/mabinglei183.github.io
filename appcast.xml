@@ -5,7 +5,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5</title>
+            <title>Version 2.8</title>
             <!--<sparkle:releaseNotesLink>
                 http://mabinglei183.github.io/release-note.html
             </sparkle:releaseNotesLink>-->
@@ -36,8 +36,8 @@
             </description>
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
-                sparkle:shortVersionString="2.5"
-                sparkle:version="11"
+                sparkle:shortVersionString="2.8"
+                sparkle:version="21"
                 length="6612965"
                 type="application/octet-stream"
                 sparkle:edSignature="4Vie8/3X79a7usCzluwQjCE+q3cTPwd+GABsz7Nv++X2KqDHvUAW91YSt4R7Df5Lkd5EzglgrByFK08QklppBQ=="
