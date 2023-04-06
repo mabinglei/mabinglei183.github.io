@@ -11,7 +11,7 @@
 							https://raw.githubusercontent.com/mabinglei183/mabinglei183.github.io/main/release-note.html
 						</sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh" />
+            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.8" length="1623481" type="application/octet-stream" sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh" />
          </item>
 
          <item>
