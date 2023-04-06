@@ -2,10 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>ChatMa</title>
+        <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
             <title>Version 2.6</title>
             <description>
+              <![CDATA[
                 - 增加设置上下文条数功能
                 - 取消了上下文开关，以后用上下文条数功能取代
                 - 增加主窗口显示token和花费
@@ -24,6 +26,7 @@
                 - 增加流式传输功能，响应速度更快
                 - 增加简体中文翻译
                 - 优化一些功能，修复已知bug
+              ]]>
             <description>
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
