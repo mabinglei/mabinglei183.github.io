@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>ChatMa</title>
-        <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
             <title>Version 2.6</title>
