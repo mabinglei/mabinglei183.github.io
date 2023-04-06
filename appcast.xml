@@ -5,7 +5,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6</title>
+            <title>Version 2.8</title>
             <description>
               <![CDATA[
                 - 增加设置上下文条数功能
@@ -30,8 +30,8 @@
             <description>
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
-                sparkle:shortVersionString="2.6"
-                sparkle:version="13"
+                sparkle:shortVersionString="2.8"
+                sparkle:version="15"
                 length="6612965"
                 type="application/octet-stream"
                 sparkle:edSignature="4Vie8/3X79a7usCzluwQjCE+q3cTPwd+GABsz7Nv++X2KqDHvUAW91YSt4R7Df5Lkd5EzglgrByFK08QklppBQ=="
