@@ -5,12 +5,13 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6</title>
+            <title>Version 2.5</title>
             <!--<sparkle:releaseNotesLink>
                 http://mabinglei183.github.io/release-note.html
             </sparkle:releaseNotesLink>-->
             <pubDate>Thu, 30 Mar 2023 22:20:11 +0000</pubDate>
             <description>
+              <![CDATA[
                 <ul>
                     <li>增加设置上下文条数功能</li>
                     <li>取消了上下文开关，以后用上下文条数功能取代</li>
@@ -31,11 +32,12 @@
                     <li>增加简体中文翻译</li>
                     <li>优化一些功能，修复已知bug</li>
                 </ul>
+              ]]>
             </description>
             <enclosure
                 url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
-                sparkle:shortVersionString="2.6"
-                sparkle:version="13"
+                sparkle:shortVersionString="2.5"
+                sparkle:version="11"
                 length="6612965"
                 type="application/octet-stream"
                 sparkle:edSignature="4Vie8/3X79a7usCzluwQjCE+q3cTPwd+GABsz7Nv++X2KqDHvUAW91YSt4R7Df5Lkd5EzglgrByFK08QklppBQ=="
