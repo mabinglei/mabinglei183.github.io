@@ -1,1 +1,39 @@
-sadfsadf
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ChatMa</title>
+        <language>en</language>
+        <item>
+            <title>Version 2.6</title>
+            <description>
+                - 增加设置上下文条数功能
+                - 取消了上下文开关，以后用上下文条数功能取代
+                - 增加主窗口显示token和花费
+                - 增加新建会话功能
+                - 代码大部分重构
+                - 增加主窗口
+                - 用户界面美化
+                - 增加设置主机名功能
+                - 增加获取API密钥链接功能
+                - 增加选择模型功能
+                - 增加设置最大Token数功能
+                - 增加设置采样度功能
+                - 增加自动检查更新功能
+                - 增加自动下载更新功能
+                - 增加上下文相关功能
+                - 增加流式传输功能，响应速度更快
+                - 增加简体中文翻译
+                - 优化一些功能，修复已知bug
+            <description>
+            <enclosure
+                url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5/ChatMa.app.v.2.5.zip"
+                sparkle:shortVersionString="2.6"
+                sparkle:version="13"
+                length="6612965"
+                type="application/octet-stream"
+                sparkle:edSignature="4Vie8/3X79a7usCzluwQjCE+q3cTPwd+GABsz7Nv++X2KqDHvUAW91YSt4R7Df5Lkd5EzglgrByFK08QklppBQ=="
+            />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
