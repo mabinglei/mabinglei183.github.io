@@ -1,4 +1,4 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:dc="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ChatMa</title>
         <description>Most recent changes with links to updates.</description>
@@ -8,11 +8,11 @@
             <description>
 <![CDATA[
 <ul>
-<li>Bug fixed</li>
+<li>test</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b12/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="12" length="6624529" type="application/octet-stream" sparkle:edSignature="wBEMsQWOxAHf5BH2o1bC5C/JlJx30VurVHJ3CBlLU2qm9BKEDbDFKrheiFjmo5jpUksjsaDWLCv5jxZFKpF8AQ==" /><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/release_tag/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="12" length="6624529" type="application/octet-stream" sparkle:edSignature="wBEMsQWOxAHf5BH2o1bC5C/JlJx30VurVHJ3CBlLU2qm9BKEDbDFKrheiFjmo5jpUksjsaDWLCv5jxZFKpF8AQ==" /><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
