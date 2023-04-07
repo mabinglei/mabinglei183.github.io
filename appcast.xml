@@ -1,4 +1,4 @@
-<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>ChatMa</title>
         <description>Most recent changes with links to updates.</description>
@@ -8,8 +8,7 @@
             <description>
 <![CDATA[
 <ul>
-<li>修复了一些bug</li>
-<li>优化代码</li>
+<li>Bug fixed</li>
 </ul>
 ]]>
 </description>
