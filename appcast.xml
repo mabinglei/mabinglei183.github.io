@@ -4,16 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5 (Build 14)</title>
+            <title>Version 2.5 (Build 15)</title>
             <description>
 <![CDATA[
 <ul>
-<li>添加了复制整个消息的功能</li>
-<li>添加了一些Bug</li>
+<li>Bug fixed</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b14/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="14" length="6640767" type="application/octet-stream" sparkle:edSignature="9YTJ0NsXqK6fmbPPCy7tu74CQWzr87t3iZIls1NKuoUGATN6n36+kfka5CX06IEMoRZywJN2Uxnra9F0y5BcDA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b15/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="15" length="6650841" type="application/octet-stream" sparkle:edSignature="3LOAGI6K2MtgRHOQFQQL/4DB9MvK76+tv6HUrmc0cGiij3Te7Uit62y6cNVp3K8BadIgGlh72ybVnmrvtLImDQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
