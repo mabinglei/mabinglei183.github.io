@@ -4,17 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5 (Build 18)</title>
+            <title>Version 2.5 (Build 19)</title>
             <description>
 <![CDATA[
 <ul>
-<li>支持复制整条消息</li>
-<li>支持删除单条优化</li>
-<li>Bug 修复</li>
+<li>新增几个内置聊天</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b18/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="18" length="6653306" type="application/octet-stream" sparkle:edSignature="v8V9gqDgDCs2u6GtAl8XKxYMUR1kGikzJq90T9pxjdp7AyLRL5VXz00ahjlSLdS2q6fx6xkNF3oP404jqXbgAQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b19/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="19" length="6656428" type="application/octet-stream" sparkle:edSignature="4e5At1P2eOyS60xEQ9FS6exXPsFXwXUb6jfoHx0AnLGEA0f+QbKax0Gq5EwICQXfWTSljsnYWY11dbTprv5DCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
