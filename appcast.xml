@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5 (Build 19)</title>
+            <title>Version 2.5 (Build 20)</title>
             <description>
 <![CDATA[
 <ul>
-<li>新增几个内置聊天</li>
+<li>Bug fixed</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b19/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="19" length="6656428" type="application/octet-stream" sparkle:edSignature="4e5At1P2eOyS60xEQ9FS6exXPsFXwXUb6jfoHx0AnLGEA0f+QbKax0Gq5EwICQXfWTSljsnYWY11dbTprv5DCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b20/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="20" length="6708911" type="application/octet-stream" sparkle:edSignature="DI7/5eZdGGuxJ0ibXH27QkAhuMr232sEk8A2ScZD0D6GlZid806bdiHa0281kAKAc4XkoO2Vd5N0GGPDSHs/Ag=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
