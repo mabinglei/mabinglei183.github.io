@@ -4,16 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5 (Build 21)</title>
+            <title>Version 2.5 (Build 22)</title>
             <description>
 <![CDATA[
 <ul>
-<li>UI优化</li>
-<li>新增接收消息时停止功能</li>
+<li>Bug fixed</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b21/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="21" length="6719106" type="application/octet-stream" sparkle:edSignature="1sUqFOREe/w+pq/hp7DmAVav8vTk7vrjoj9TdXc0AiupaCeOHmHXq7W5JDcpqIVAGw2/EysAbuBTtprgZ4iMBw=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b22/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="22" length="6721307" type="application/octet-stream" sparkle:edSignature="/N5RKnclyW6roPCKRP8hCXTzrch1zEtOQAu80oQfSxprToqMNvib2yMrPhY0qu6/jE935MwFRA6s/tvWtvbPAw=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
