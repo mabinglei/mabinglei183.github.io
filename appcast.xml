@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.5 (Build 23)</title>
+            <title>Version 2.6 (Build 24)</title>
             <description>
 <![CDATA[
 <ul>
-<li>新增控制电池电量功能，需要先在终端执行curl -s https://raw.githubusercontent.com/actuallymentor/battery/main/setup.sh | bash</li>
+<li>新增电池电量控制功能</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.5b23/ChatMa.app.zip" sparkle:shortVersionString="2.5" sparkle:version="23" length="6782146" type="application/octet-stream" sparkle:edSignature="IzUWlSAMr4fKUJJu3Cv14WyrITCaUTKKdAFrBnymTSpoLwlQEex0CYzOyzdkwS50H9g/2j5vNLMuZOF+4Am4AQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.6b24/ChatMa.app.zip" sparkle:shortVersionString="2.6" sparkle:version="24" length="6804601" type="application/octet-stream" sparkle:edSignature="nvXGRkdZrlXiLn1AzQR5d2ixwV4ybQC7CbeC8LA5QvXvpn7u7R30oyYHXcufkc4p0c+NCoBlmn6YPracsUpqAQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
