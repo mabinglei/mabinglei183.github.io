@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6 (Build 24)</title>
+            <title>Version 2.6 (Build 25)</title>
             <description>
 <![CDATA[
 <ul>
-<li>新增电池电量控制功能</li>
+<li>新增电池充电控制功能</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.6b24/ChatMa.app.zip" sparkle:shortVersionString="2.6" sparkle:version="24" length="6804601" type="application/octet-stream" sparkle:edSignature="nvXGRkdZrlXiLn1AzQR5d2ixwV4ybQC7CbeC8LA5QvXvpn7u7R30oyYHXcufkc4p0c+NCoBlmn6YPracsUpqAQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei183/ChatMa/releases/download/v2.6b25/ChatMa.app.zip" sparkle:shortVersionString="2.6" sparkle:version="25" length="6812787" type="application/octet-stream" sparkle:edSignature="+qREo7Aq9bXbJghzlKLhxo8pz+BjNFCZ/YIXn6oo2mOKxo2o8umD3pPp57fwkmMNq4z4KakmUrK0fImvLRwZCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
