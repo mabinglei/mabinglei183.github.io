@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6 (Build 26)</title>
+            <title>Version 2.7 (Build 27)</title>
             <description>
 <![CDATA[
 <ul>
-<li>新增电池电量控制功能</li>
+<li>支持Az OpenAI Service</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.6b26/ChatMa.app.zip" sparkle:shortVersionString="2.6" sparkle:version="26" length="6812924" type="application/octet-stream" sparkle:edSignature="eh3JBR+NDG3yhONKhc/GsUl6f5RGE07ppVJepbIkduBk9dqqKybMY/aGpL/9MIp1T52cmx116v8vSzCgtC+2Dg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.7b27/ChatMa.app.zip" sparkle:shortVersionString="2.7" sparkle:version="27" length="6553752" type="application/octet-stream" sparkle:edSignature="MWlfrAqIPLp7iDWEqJE/I22Nw1gqUPrdx5DPKISrYFKL7CJl7PFFS/IMOyxksxHapKVTLTQyz2BJWJXpIfJqAg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
