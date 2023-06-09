@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.7 (Build 27)</title>
+            <title>Version 2.7 (Build 28)</title>
             <description>
 <![CDATA[
 <ul>
-<li>支持Az OpenAI Service</li>
+<li>新增Microsoft Azure OpenAI Service</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.7b27/ChatMa.app.zip" sparkle:shortVersionString="2.7" sparkle:version="27" length="6553752" type="application/octet-stream" sparkle:edSignature="MWlfrAqIPLp7iDWEqJE/I22Nw1gqUPrdx5DPKISrYFKL7CJl7PFFS/IMOyxksxHapKVTLTQyz2BJWJXpIfJqAg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.7b28/ChatMa.app.zip" sparkle:shortVersionString="2.7" sparkle:version="28" length="6553908" type="application/octet-stream" sparkle:edSignature="JFGfVNi03Fi0hAjqpQX6JchoA85j/NtTDK5OGUQ3d0vo2pxgZxP2p8i/pUDNJYX1A+nstM5x0XkGZXUl8ne1Bg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
