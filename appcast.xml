@@ -4,15 +4,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.7 (Build 31)</title>
+            <title>Version 2.7 (Build 32)</title>
             <description>
 <![CDATA[
 <ul>
 <li>App操作逻辑优化</li>
+<li>修复了一些Bug</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.7b31/ChatMa.app.zip" sparkle:shortVersionString="2.7" sparkle:version="31" length="6567364" type="application/octet-stream" sparkle:edSignature="pe3xPWSnlPcM6q5T6AfODL/vsHrT4lB0w81bT86hpDRXY0RPoQqd5VBdodnmUVxDVUvBvYj43n6LJ6TZqh9CAg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.7b32/ChatMa.app.zip" sparkle:shortVersionString="2.7" sparkle:version="32" length="6567415" type="application/octet-stream" sparkle:edSignature="BvhuOkj6NTuLn789vwKd45HQgHJ391SEfsWi6IeCQiozVXD6awveNrcCnUyQV4sTbpfEOK1lg8REIMA4za1aAg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
