@@ -4,17 +4,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.8 (Build 37)</title>
+            <title>Version 2.9 (Build 38)</title>
             <description>
 <![CDATA[
 <ul>
-<li>新增IP地址检查工具</li>
-<li>支持升级到Pro</li>
-<li>修复了一些Bug</li>
+<li>使用macOS14 SDK构建</li>
+<li>了一些bug</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.8b37/ChatMa.app.zip" sparkle:shortVersionString="2.8" sparkle:version="37" length="6976757" type="application/octet-stream" sparkle:edSignature="J6RbvBlWioXuTR9by+BMaJBKlgc3WS+y+UyNGEgNJSdCsLMgGLLOG5oh4UsS7uxNLYrUSfn23ikbu9xvsXGUDg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.9b38/ChatMa.app.zip" sparkle:shortVersionString="2.9" sparkle:version="38" length="6980225" type="application/octet-stream" sparkle:edSignature="ozsJFV2bsN2g1DwDe5FmihlD3VCJ5YFx88/b4NHueij+eEyWRap1gIM+psc7ZzPGe03yb66kIQ41E4f7YprCCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
