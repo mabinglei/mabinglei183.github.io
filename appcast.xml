@@ -4,16 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.9 (Build 38)</title>
+            <title>Version 2.9 (Build 39)</title>
             <description>
 <![CDATA[
 <ul>
-<li>使用macOS14 SDK构建</li>
-<li>了一些bug</li>
+<li>Bug fiexd</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.9b38/ChatMa.app.zip" sparkle:shortVersionString="2.9" sparkle:version="38" length="6980225" type="application/octet-stream" sparkle:edSignature="ozsJFV2bsN2g1DwDe5FmihlD3VCJ5YFx88/b4NHueij+eEyWRap1gIM+psc7ZzPGe03yb66kIQ41E4f7YprCCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.9b39/ChatMa.app.zip" sparkle:shortVersionString="2.9" sparkle:version="39" length="6987711" type="application/octet-stream" sparkle:edSignature="LQAPbFm3GC/sPpesXOuXV738vkRWuKPMpXl2r+ZVeU3kuAntmrOCYmuHOYBCPm7qGHyTsDI+eR9macLKRc0VCQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
