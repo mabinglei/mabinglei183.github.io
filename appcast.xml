@@ -4,15 +4,17 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.9 (Build 39)</title>
+            <title>Version 3.0 (Build 40)</title>
             <description>
 <![CDATA[
 <ul>
-<li>Bug fixed</li>
+<li>修复了很多bug</li>
+<li>代码高亮新增复制和显示行号功能</li>
+<li>支持OpenAI最近发布的模型 </li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v2.9b39/ChatMa.app.zip" sparkle:shortVersionString="2.9" sparkle:version="39" length="6987711" type="application/octet-stream" sparkle:edSignature="LQAPbFm3GC/sPpesXOuXV738vkRWuKPMpXl2r+ZVeU3kuAntmrOCYmuHOYBCPm7qGHyTsDI+eR9macLKRc0VCQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.0b40/ChatMa.app.zip" sparkle:shortVersionString="3.0" sparkle:version="40" length="7222203" type="application/octet-stream" sparkle:edSignature="k7qCJ7eMGLLOiy63OEqO9gx8tfkraVb7BIZazjU1EAOBOJgc0bHJI+raruJa+3upek3jnizx6ZW/J0yKxaHICA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
