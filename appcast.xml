@@ -4,17 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.0 (Build 41)</title>
+            <title>Version 3.0 (Build 42)</title>
             <description>
 <![CDATA[
 <ul>
-<li>修复了一些bug</li>
-<li>代码高亮视图新增复制和显示行号的功能</li>
-<li>支持OpenAI最近发布的几个模型</li>
+<li>最后一个支持macOS 13的版本</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.0b41/ChatMa.app.zip" sparkle:shortVersionString="3.0" sparkle:version="41" length="7195787" type="application/octet-stream" sparkle:edSignature="soudmAsJHQr7+WesBETIbscg9rFX8mxbAxjAjVpVi25z8pPVbhG/2SW11yLBm3MF/1MaiJiBqY6Xay/BJL8pBg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.0b42/ChatMa.app.zip" sparkle:shortVersionString="3.0" sparkle:version="42" length="7106237" type="application/octet-stream" sparkle:edSignature="vjbJNaFPnlpP6jB+VBmhuvsijr+4bUHBrCYSE/FhWAvhT0hdsatfIP/YtPLOkA/ORykJbaJ0xrUu/An8h3loAQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
