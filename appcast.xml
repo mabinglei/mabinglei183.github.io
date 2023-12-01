@@ -4,15 +4,17 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.0 (Build 42)</title>
+            <title>Version 3.1 (Build 43)</title>
             <description>
 <![CDATA[
 <ul>
-<li>最后一个支持macOS 13的版本</li>
+<li>重构了菜单栏聊天的实现</li>
+<li>现在，每个对话都支持添加到菜单栏了</li>
+<li>修复了一些Bug</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.0b42/ChatMa.app.zip" sparkle:shortVersionString="3.0" sparkle:version="42" length="7106237" type="application/octet-stream" sparkle:edSignature="vjbJNaFPnlpP6jB+VBmhuvsijr+4bUHBrCYSE/FhWAvhT0hdsatfIP/YtPLOkA/ORykJbaJ0xrUu/An8h3loAQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.1b43/ChatMa.app.zip" sparkle:shortVersionString="3.1" sparkle:version="43" length="7107880" type="application/octet-stream" sparkle:edSignature="tcVl8U8MHkrokicwW6PupvDOQ0GpNk5Op2A4vv/VahiSmEVU/YvNMm5Xq5RxqK9oGP9cuKYHzPcxDZYz3g1OCg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
