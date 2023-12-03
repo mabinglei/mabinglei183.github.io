@@ -4,7 +4,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.1 (Build 43)</title>
+            <title>Version 3.1 (Build 44)</title>
             <description>
 <![CDATA[
 <ul>
@@ -14,7 +14,7 @@
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.1b43/ChatMa.app.zip" sparkle:shortVersionString="3.1" sparkle:version="43" length="7107880" type="application/octet-stream" sparkle:edSignature="tcVl8U8MHkrokicwW6PupvDOQ0GpNk5Op2A4vv/VahiSmEVU/YvNMm5Xq5RxqK9oGP9cuKYHzPcxDZYz3g1OCg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.1b44/ChatMa.app.zip" sparkle:shortVersionString="3.1" sparkle:version="44" length="7079726" type="application/octet-stream" sparkle:edSignature="YYcGGysbpFisBQlBu5IVDH0CJ4Ryzy6F10+1CzDVaDMMlLgnKLT2uplPd7+b4DNqeT+vjsO/aAfwhruuEFOnCA=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
