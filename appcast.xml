@@ -4,17 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.1 (Build 45)</title>
+            <title>Version 3.1 (Build 47)</title>
             <description>
 <![CDATA[
 <ul>
-<li>重构了菜单栏聊天的实现</li>
-<li>现在，每个对话都支持添加到菜单栏了</li>
-<li>修复了一些Bug</li>
+<li>Fixed some bugs</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMa/releases/download/v3.1b45/ChatMa.app.zip" sparkle:shortVersionString="3.1" sparkle:version="45" length="7079202" type="application/octet-stream" sparkle:edSignature="NhDjnr1h90i+snmPJpIMEa8UGbt1a513SxsME1fbHjcmhHSOxzqko/FenvKV9J+RiHthjfr4RJMm3IiGgS1HCg=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMaRelease/releases/download/v3.1b47/ChatMa.app.zip" sparkle:shortVersionString="3.1" sparkle:version="47" length="8443866" type="application/octet-stream" sparkle:edSignature="O+RosZOqdbaiurcJMCVG9OQf4YfmawxOaLtwjmOXKCPFd1H+iv0w3BI0qsRRNvjgCHY+r+1kZ4R7Js8GXdx+Ag=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
