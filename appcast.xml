@@ -4,15 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.4 (Build 62)</title>
+            <title>Version 3.4 (Build 63)</title>
             <description>
 <![CDATA[
 <ul>
-<li>支持iCloud同步</li>
+<li>add gpt-4o</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMaRelease/releases/download/v3.4b62/ChatMa.app.zip" sparkle:shortVersionString="3.4" sparkle:version="62" length="7944805" type="application/octet-stream" sparkle:edSignature="HR3c8M7ASUGjW4p0Va1PR17SXIEQIkfBLChWjUJrcKmKYW8rQrmYtFycjPZ2piW1eYtuzh2G92QicvLt6H5eCw=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMaRelease/releases/download/v3.4b63/ChatMa.app.zip" sparkle:shortVersionString="3.4" sparkle:version="63" length="7875232" type="application/octet-stream" sparkle:edSignature="yIFPCwWUucazS6Is63aKVJ/lT+tSv145g2R7271HA+cbwkg2GjJKqHNLRL9UOujHKrdQprZOPkW6MdwK/1WSDQ=="></enclosure><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
