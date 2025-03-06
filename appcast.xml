@@ -4,21 +4,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 3.6.0 (Build 85)</title>
+            <title>Version 3.6.0 (Build 86)</title>
             <description>
 <![CDATA[
 <ul>
-<li>New Feature: Add Support for DeepSeek and xAI</li>
-<li>New Feature: Support for file chat (PDF and images), files can be dragged directly onto the Dock app icon or menu bar icon</li>
-<li>New Feature: Added file translation feature (currently only supports SRT subtitle translation and requires manual proofreading)</li>
-<li>New Feature: After selecting text, press "option" + "command" + left mouse down to quickly translate the text</li>
-<li>New Feature: In the text editing box, quickly pressing "space" + "option" 3 times can call up the shortcut menu</li>
-<li>Optimization: Supported some new models and removed some deprecated models</li>
-<li>Optimization: Allows quick modification of AI provider, model, and prompt in the title bar</li>
+<li>Bug fixed</li>
 </ul>
 ]]>
 </description>
-            <enclosure url="https://github.com/mabinglei/ChatMaRelease/releases/download/v3.6.0b85/ChatMa.app.zip" sparkle:shortVersionString="3.6.0" sparkle:version="85" length="5057713" type="application/octet-stream" sparkle:edSignature="v6zNS0LFRAdwLelkf4sCilD2txoiOzQ6jngp/tTMZkNp4qIvXxaWTsq+mhQUBJaKHaKukPS94S74ePGJd7lqAA=="></enclosure><sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mabinglei/ChatMaRelease/releases/download/v3.6.0b86/ChatMa.app.zip" sparkle:shortVersionString="3.6.0" sparkle:version="86" length="5198263" type="application/octet-stream" sparkle:edSignature="m9xHlwIE+cfdbrr/W/wPUvHU/kfW3MyVL9DrfNssAWMF46KjbiqXQylW7HSHnY9SHVzaZfBZrXKI9zOhGTF9CQ=="></enclosure><sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
